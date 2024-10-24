@@ -1,6 +1,6 @@
 package silvergate.freeze;
 
-
+// Contants Class
 public class Constants {
     public static String POOL_ID="us-west-2:c327b0fa-3d44-4901-ab0d-31f4f5fe115c";
 
